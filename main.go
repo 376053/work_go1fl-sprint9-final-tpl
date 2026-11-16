@@ -92,3 +92,4 @@ func main() {
 
 	fmt.Printf("Максимальное значение элемента: %d\nВремя поиска: %d ms\n", max, elapsed)
 }
+
